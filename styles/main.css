@@ -1,0 +1,23 @@
+.list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size:large;
+}
+.shop{
+    font-size:23px;
+    border: dotted;
+    border-width: 2px;
+    display:flex;
+    flex-basis: 13%;
+    padding: 1em;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap:wrap;
+}
+.pageHeader{
+    font-size: 30px;
+    font-weight:bold;
+    display:flex;
+    justify-content: center;
+}
